@@ -13,8 +13,13 @@ Jabatan : Prakom Ahli Pertama
 Nama: Gede Ariawan
 Satker: Kejaksaan Negeri Tabanan
 Jabatan: Pranata Komputer Ahli Pertama
-
+---
 Nama : Sugar Hutabarat
 Jenis Kelamin : Laki-laki
 Satker : Kejaksaan Negeri Bengkulu
 Unit Kerja : Kejaksaa Tinggi Bengkulu
+---
+Nama : Muhammad Fauzan Zikra
+Asal : Aceh
+Jabatan : Prakom Ahli Pertama
+---
