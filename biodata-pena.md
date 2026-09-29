@@ -9,7 +9,7 @@ Asal : Denpasar
 Jabatan : Prakom Ahli Pertama
 ---
 Nama : Muhamad Ardiyansyah
-Asal : Tangerang
+Asal : Kabupaten Tangerang
 Jabatan : Prakom Ahli Pertama
 ---
 Nama: Gede Ariawan
