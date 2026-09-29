@@ -27,3 +27,6 @@ Nama : Wiro Tirta Habibi
 Asal : Aceh
 Jabatan : Prakom Ahli Pertama
 ---
+Nama : I Nyoman Wijaya
+Satker : Kejaksaan Negeri Gianyar
+Jabatan : Pranata Komputer Ahli Pertama
