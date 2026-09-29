@@ -23,3 +23,7 @@ Nama : Muhammad Fauzan Zikra
 Asal : Aceh
 Jabatan : Prakom Ahli Pertama
 ---
+Nama : Wiro Tirta Habibi
+Asal : Aceh
+Jabatan : Prakom Ahli Pertama
+---
