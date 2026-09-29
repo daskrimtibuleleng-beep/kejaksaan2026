@@ -1,4 +1,4 @@
-ini Biodata komisi 1
+ini Biodata komisi 1 Baru
 
 Nama : Gede Pena Asmawan
 asal : Buleleng-bali
