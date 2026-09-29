@@ -10,3 +10,6 @@ Nama : Muhamad Ardiyansyah
 Asal : Tangerang
 Jabatan : Prakom Ahli Pertama
 ---
+Nama: Gede Ariawan
+Satker: Kejaksaan Negeri Tabanan
+Jabatan: Pranata Komputer Ahli Pertama
